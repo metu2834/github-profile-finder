@@ -1,4 +1,5 @@
 GitHub Profile Finder
+
 A React-based web application that allows users to search for GitHub profiles using the GitHub API. It fetches user data like name, bio, repositories, followers, and more.
 
 Tech Stack
