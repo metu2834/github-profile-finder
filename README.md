@@ -6,3 +6,7 @@ Tech Stack
 - Frontend: React.js, Tailwind CSS (or Bootstrap)
 - API: GitHub REST API
 - State Management: React Hooks (useState, useEffect)
+
+  Live Demo:
+  🔗 github-profile-finder-rouge.vercel.app
+
