@@ -8,5 +8,5 @@ Tech Stack
 - State Management: React Hooks (useState, useEffect)
 
   Live Demo:
-  🔗 github-profile-finder-rouge.vercel.app
+  [🔗 github-profile-finder-rouge.vercel.app] (github-profile-finder-rouge.vercel.app)
 
